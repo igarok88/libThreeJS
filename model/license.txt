@@ -1,0 +1,11 @@
+Model Information:
+* title:	PUBG - Loot Truck
+* source:	https://sketchfab.com/3d-models/pubg-loot-truck-ef0ec773a6d342a58e37bf96dfdeca71
+* author:	Falah (https://sketchfab.com/falah01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PUBG - Loot Truck" (https://sketchfab.com/3d-models/pubg-loot-truck-ef0ec773a6d342a58e37bf96dfdeca71) by Falah (https://sketchfab.com/falah01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
